@@ -5,7 +5,8 @@ Menu
 2.Kheer
 3.Chilly Chicken
 4.Chilly Paneer
-
+5.Pizza
+6.Ratatoi
 
 
 Thanks for visiting 
