@@ -3,3 +3,5 @@ Welcome to Di's Kitchen
 Menu
 1.Pasta
 2.Kheer
+3.Chilly Chicken
+4.Chilly Paneer
